@@ -1,0 +1,10 @@
+flask
+tensorflow
+keras
+pandas
+numpy
+werkzeug
+pillow
+matplotlib
+h5py
+requests
